@@ -1,0 +1,9 @@
+Visual sources used by the website.
+
+Pexels — Busy Port During Night Time — https://www.pexels.com/photo/busy-port-during-night-time-4297388/
+Pexels — International Finance Centre in Hong Kong — https://www.pexels.com/photo/international-finance-centre-in-hong-kong-18458329/
+Pexels — Red Cranes and Multicoloured Cargo Containers on a Coast — https://www.pexels.com/photo/red-cranes-and-multicoloured-cargo-containers-on-a-cost-12999282/
+Pexels — Containers in Harbor by the Sea — https://www.pexels.com/photo/containers-in-harbor-by-the-sea-10778274/
+Pexels — City Skyline Viewed from the Port of Hong Kong — https://www.pexels.com/photo/city-skyline-viewed-from-the-port-of-hong-kong-24345769/
+
+Images are loaded from the Pexels CDN to keep the repository lightweight. All are marked as free to use on their respective Pexels pages at the time of site creation.
