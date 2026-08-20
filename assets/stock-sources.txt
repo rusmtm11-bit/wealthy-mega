@@ -1,9 +1,22 @@
-Visual sources used by the website.
+Visual sources used by the website. All photos are loaded from the Pexels CDN
+to keep the repository lightweight, and are free to use under the Pexels
+license at the time of site creation.
 
-Pexels — Busy Port During Night Time — https://www.pexels.com/photo/busy-port-during-night-time-4297388/
-Pexels — International Finance Centre in Hong Kong — https://www.pexels.com/photo/international-finance-centre-in-hong-kong-18458329/
-Pexels — Red Cranes and Multicoloured Cargo Containers on a Coast — https://www.pexels.com/photo/red-cranes-and-multicoloured-cargo-containers-on-a-cost-12999282/
-Pexels — Containers in Harbor by the Sea — https://www.pexels.com/photo/containers-in-harbor-by-the-sea-10778274/
-Pexels — City Skyline Viewed from the Port of Hong Kong — https://www.pexels.com/photo/city-skyline-viewed-from-the-port-of-hong-kong-24345769/
+Pexels - Busy Port During Night Time - https://www.pexels.com/photo/busy-port-during-night-time-4297388/
+Pexels - International Finance Centre in Hong Kong - https://www.pexels.com/photo/international-finance-centre-in-hong-kong-18458329/
+Pexels - Red Cranes and Multicoloured Cargo Containers on a Coast - https://www.pexels.com/photo/red-cranes-and-multicoloured-cargo-containers-on-a-cost-12999282/
+Pexels - Containers in Harbor by the Sea - https://www.pexels.com/photo/containers-in-harbor-by-the-sea-10778274/
+Pexels - City Skyline Viewed from the Port of Hong Kong - https://www.pexels.com/photo/city-skyline-viewed-from-the-port-of-hong-kong-24345769/
+Pexels - Industrial Raw Material Rolls and Manufacturing Texture - https://www.pexels.com/photo/373543/
+Pexels - Professional Handshake Between Business Partners - https://www.pexels.com/photo/professional-handshake-between-business-partners-33175653/
+Pexels - Birds-eye View Photo of Freight Containers - https://www.pexels.com/photo/birds-eye-view-photo-of-freight-containers-2226458/
+Pexels - Laboratory Test Tubes - https://www.pexels.com/photo/laboratory-test-tubes-2280549/
+Pexels - Forklifts in the Warehouse - https://www.pexels.com/photo/forklifts-in-the-warehouse-11500419/
+Pexels - Hong Kong Skyline at Night - https://www.pexels.com/photo/photo-of-hong-kong-skyline-at-night-3038813/
 
-Images are loaded from the Pexels CDN to keep the repository lightweight. All are marked as free to use on their respective Pexels pages at the time of site creation.
+Logo
+----
+The Wealthy Mega Trade Limited "W" mark and wordmark were supplied by the
+client and are used as the brand logo across the site (header, footer, and
+favicon variants) in logo-icon.png, logo-icon-white.png, and the favicon
+files.
